@@ -64,7 +64,7 @@ Rather than focusing on ever-larger cloud models, LightAgent treats the **3B on-
 
 ### Model release & resources
 
-- **Model weights**: `LightAgent-3B` is released on Hugging Face (see the badge above).
+- **Model weights**: `LightAgent-3B` is released on [Hugging Face](https://huggingface.co/hkuds/LightAgent_model).
 - **Serving stack**: We provide vLLM-based scripts to run the 3B model efficiently as an inference service.
 - **Training recipe**: The training code and instructions (SFT + RL with synthetic GUI data) are documented under `model_training/` so you can reproduce or adapt the 3B model for your own use cases.
 
